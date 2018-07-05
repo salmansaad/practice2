@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+div.links{
+    height: 80px;
+}
+ul{
+   
+    list-style: none;
+}
+ul li{
+   float: right;
+   margin-top: 0px;
+   padding-top: 25px;
+   display: block;
+   width: 80px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+.google{
+    height: 220px;
+}
+.google img{
+    margin-top: 100px;
+    margin-left: 525px;
+}
+.inp{
+  height: 280px;
+}
+p{
+    margin-top: 30px;
+    margin-left: 550px;
+    text-transform: capitalize;   
+}
+.footer{
+    height: 80px;
+    margin-top: 130px; 
+    background-color: gainsboro;
+    line-height: 5px;
+    display: block;
+}
+
+
